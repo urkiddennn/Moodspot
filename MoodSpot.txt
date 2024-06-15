@@ -1,0 +1,14 @@
+
+
+
+Start Up Idea 101
+
+Problem: People have the hardtime to find the tourist spot they want based on what their mood are.
+MoodSpot
+-GemsPot is a website that allows you to find tourist spots based on your moods and feelings.
+
+Value Proposition(features)
+-Find the best spots according to your mood.
+-Easy searching
+-Mapping
+

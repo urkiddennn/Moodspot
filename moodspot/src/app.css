@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+* {
+  font-family: "DM Serif Text", serif;
+  color: black;
+}
+
+span {
+  font-family: inherit;
+  font-weight: inherit;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #ffffff;
+  border-radius: 5px;
+  border: 2px solid #0e3567;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #0e3567;
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #000000;
+}
+.search-result:hover {
+  border-bottom: 2px solid grey;
+}
