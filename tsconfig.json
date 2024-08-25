@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      // your compiler options
+    },
+    "include": [
+      "src",
+      "typings" // Add this if your custom types are in the typings folder
+    ]
+  }
+  
